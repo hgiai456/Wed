@@ -155,6 +155,9 @@
     <Content Include="Content\Image\hinhnv.jpeg" />
     <Content Include="Content\Image\iconfb.png" />
     <Content Include="Content\Image\images.png" />
+    <Content Include="Content\Image\katinat1.jpg" />
+    <Content Include="Content\Image\katinat2.jpg" />
+    <Content Include="Content\Image\katinat3.jpg" />
     <Content Include="Content\Image\khuyen-mai.jpg" />
     <Content Include="Content\Image\kim-chi-ham-gio-heo.jpg" />
     <Content Include="Content\Image\kimbap_resize.jpg" />
